@@ -165,6 +165,12 @@ h2 {
     text-align: center;
     justify-content: center;
 }
+h3 {
+    color: rgb(3, 138, 255);
+    text-align: center;
+    justify-content: center;
+    font-size: x-large;
+}
 nav a:hover {
     color: rgb(0, 204, 255);
 }
